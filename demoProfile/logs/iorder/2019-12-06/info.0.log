@@ -1,0 +1,7 @@
+[INFO ] 2019-12-06 17:05:32 [main] c.e.demo.DemoProfileApplication - Starting DemoProfileApplication on DESKTOP-1SN267J with PID 20956 (D:\Administrator\workspace-spring-tool-suite-4-4.3.1.RELEASE\demoProfile\target\classes started by Administrator in D:\Administrator\workspace-spring-tool-suite-4-4.3.1.RELEASE\demoProfile)
+[INFO ] 2019-12-06 17:05:32 [main] c.e.demo.DemoProfileApplication - The following profiles are active: profile
+[INFO ] 2019-12-06 17:05:32 [main] c.e.demo.DemoProfileApplication - Started DemoProfileApplication in 0.478 seconds (JVM running for 1.003)
+[INFO ] 2019-12-06 17:05:32 [main] c.e.d.ProfileShowInCommandLineRunner - <<<<>>>>>
+[INFO ] 2019-12-06 17:05:32 [main] c.e.d.ProfileShowInCommandLineRunner - name in command line
+[INFO ] 2019-12-06 17:05:32 [main] c.e.d.ProfileShowInCommandLineRunner - prop in application.propiteies
+[INFO ] 2019-12-06 17:05:32 [main] c.e.d.ProfileShowInCommandLineRunner - aaa-profile
