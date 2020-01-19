@@ -18,6 +18,6 @@ spring:
     gateway:
       routes:
       - id: after_route
-        uri: http://localhost:8080/hello
+        uri: http://www.163.com
         predicates:
         - After=2017-01-20T17:42:47.789-07:00[America/Denver]

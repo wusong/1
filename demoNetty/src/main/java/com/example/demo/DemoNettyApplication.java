@@ -8,6 +8,15 @@ public class DemoNettyApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoNettyApplication.class, args);
+		System.out.print(1);
+		System.out.print(1);
+		System.gc();
+		System.out.print(1);
+		System.out.print(1);
+		System.out.print(1);
+		System.out.print(1);
+		System.out.print(1);
+		System.out.print(1);
 	}
 
 }
